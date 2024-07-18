@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "electapp",
+    "slug": "electapp",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "4caeb4b4-fe6a-4f43-999e-7e1c343e24d4"
+      }
+    }
+  }
+}
