@@ -1,4 +1,4 @@
-rootProject.name = 'electapp'
+rootProject.name = 'Voters'
 
 dependencyResolutionManagement {
   versionCatalogs {
